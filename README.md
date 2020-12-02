@@ -13,4 +13,4 @@ Foram comparados dois word embeddings de escopo geral para o português (http://
 
 ## Arquivos disponíveis
 
-Relatório em PDF e TEX, código do tipo Python notebook (desenvolvido no ambiente Google Colab).
+Relatório em PDF e TEX, código do tipo Python notebook (desenvolvido no ambiente Google Colab), word embeddings do domínio específico bancário.
